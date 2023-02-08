@@ -1,0 +1,15 @@
+# Problem
+
+The standardized hiring process for environmental data science positions leads to exclusion of diverse candidates
+
+We are missing a lot of applicants by:
+
+-   Reach: not sharing hiring information to large enough pool
+
+-   Transparency: application process is complex
+
+-   Timing: can be a long process
+
+-   Normalized document requirement that might not be a means to get in the door
+
+-   Titles: titles don't describe what we do.
