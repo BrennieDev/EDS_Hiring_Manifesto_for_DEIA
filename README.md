@@ -6,6 +6,10 @@ https://brenniedev.github.io/EDS_Hiring_Manifesto_for_DEIA/
 
 
 
+### Adding Pages
+
+.Rmd files in the parent directory will be generated into the 'Chapters' of the bookdown. Content can be added within each page.
+
 ### Render the book from local RStudio
 
 (in the project workspace)
