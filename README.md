@@ -4,7 +4,12 @@ project description
 
 https://brenniedev.github.io/EDS_Hiring_Manifesto_for_DEIA/
 
-
+## Authors:
+- Margaux Sleckman
+- Elmera Azadpour
+- Ian Brunjes
+- Ciera Martinez
+- Michelle Tigchelaar
 
 ### Adding Pages
 
