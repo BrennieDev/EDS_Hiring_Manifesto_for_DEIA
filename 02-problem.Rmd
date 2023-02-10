@@ -2,7 +2,7 @@
 
 The standardized hiring process for environmental data science positions leads to exclusion of diverse candidates
 
-We are missing a lot of applicants by:
+Employers are missing a lot of applicants by:
 
 -   Reach: not sharing hiring information to large enough pool
 
@@ -10,6 +10,8 @@ We are missing a lot of applicants by:
 
 -   Timing: can be a long process
 
--   Normalized document requirement that might not be a means to get in the door
+-   Documentation: normalized document requirement that might not be a means to get in the door
 
--   Titles: titles don't describe what we do.
+-   Titles: title may not accurately match responsibilites
+
+Chapter 3 - Approach sets out to curate sharable resources that raise awareness about hurdles and biases and present best practices to address or overcome these problem spaces. 

@@ -16,29 +16,32 @@
 
 -   Reach
 
-    -   Social Media content about the jobs and how to apply
+    -   Social media content about the jobs and how to apply
 
-    -   Live Webinar about Job with Q&A
+    -   Live webinar about job with Q&A
 
         -   include more information on application material
 
     -   Engaging with universities and other groups
 
-    -   Actively engage with DS community groups 
+    -   Actively engage with DS community groups with job postings specific slack channels 
 
         -   [Data Visualization Society](https://jobs.datavisualizationsociety.org/)
-
+            -   `#share_jobs`
         -   [R4DS](https://www.rfordatasci.com/)
-
+            -   `#work_jobs_hiring`
         -   [Minorities in R (MiR) Community](https://mircommunity.com/)
-
+            -   `#jobs`
         -   [EcoDataScience](https://eco-data-science.github.io/)
+            -   `#jobs`
+
+    -   Utilizing employee referrals and networks
 
 -   Interviews
 
     -   Interviewing as many people as possible
 
-    -   Limiting use of self-assessments that tend to bias
+    -   Limiting use of self-assessments that tend to be bias
 
     -   Pre-interview qualitative assessment power skills (passion, desire to learn, collaboration, etc.)
 
@@ -52,4 +55,4 @@
 
     -   Resource groups
 
-        -   BIPOC/LGBTQ+/Early Career working grouping
+        -   BIPOC/LGBTQ+/Early Career working groups
