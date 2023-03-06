@@ -7,7 +7,9 @@ site: bookdown::bookdown_site
 
 # Idea
 
-A manifesto to redesign hiring practices that increase equity and inclusion in the Environmental Data Science (EDS) workforce. Here we lay out the problem space and provide approaches to expand diversity, equity, inclusion and accessibility (DEIA) in the hiring process.
+The EDS Hiring Manifesto is a living document that serves as a hiring resources and provides recommended hiring practices that can increase equity and inclusion in the Environmental Data Science (EDS) workforce. Abiding by the DEIA principles, the approach detailed in this manifesto will serve as a primary resources for hiring managers and job seekers to ensure our discipline embraces an inclusive recruitment process that is welcoming and enriching to all.  
+
+Here we lay out the problem space and provide approaches to expand diversity, equity, inclusion and accessibility (DEIA) in the hiring process.
 
 ![From Berhe et. al, 2002 - Credit: Mvmet](Berhe_et_al_2002.png)
 
