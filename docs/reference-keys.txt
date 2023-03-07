@@ -2,3 +2,5 @@ idea
 problem
 approach
 resources
+job-seekers
+hiring-managers
