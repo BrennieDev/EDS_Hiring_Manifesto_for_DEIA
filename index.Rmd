@@ -1,5 +1,5 @@
 --- 
-title: "Redesigning hiring practices to increase equity and inclusion in the Environmental Data Science (EDS) workforce"
+title: "Redesigning hiring practices to increase equity and inclusion in Environmental Data Science (EDS)"
 author: "Margaux Sleckman, Elmera Azadpour, Ian Brunjes, Ciera Martinez, Michelle Tigchelaar"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -7,7 +7,8 @@ site: bookdown::bookdown_site
 
 # Idea
 
-The EDS Hiring Manifesto is a living document that serves as a hiring resources and provides recommended hiring practices that can increase equity and inclusion in the Environmental Data Science (EDS) workforce. Abiding by the DEIA principles, the approach detailed in this manifesto will serve as a primary resources for hiring managers and job seekers to ensure our discipline embraces an inclusive recruitment process that is welcoming and enriching to all.  
+The EDS Hiring Manifesto is a living document that serves as a hiring resource and provides recommended best practices for applying and recruiting that will increase equity and inclusion in the Environmental Data Science (EDS) workforce. Abiding by the DEIA principles, the approach detailed in this manifesto will serve as a primary standardized resource for hiring managers as well as job seekers in EDS. 
+We hope this manifesto allows the discipline to wholly embrace an inclusive & transparent recruitment process and help create a professional culture where all identities can participate, thrive, and have satisfying and rewarding careers.
 
 Here we lay out the problem space and provide approaches to expand diversity, equity, inclusion and accessibility (DEIA) in the hiring process.
 
